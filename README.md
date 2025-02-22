@@ -1,5 +1,10 @@
 # Smart-Voice-Assistant
+**Clone the repository:**
+   git clone https://github.com/VineetKumar2004/Smart-Voice-Assistant.git
+   cd Smart-Voice-Assistant
 
+
+   
 import pyttsx3
 import speech_recognition as sr
 import random
